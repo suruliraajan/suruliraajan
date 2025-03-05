@@ -17,6 +17,9 @@ Full Stack Developer @ Modern Technical Solutions
 <a href="https://www.linkedin.com/in/surulirajan/" target="_blank">
     <img alt="SURULIRAAJAN | linkedin" src="https://user-images.githubusercontent.com/22448559/137614008-18f96cfd-b2c4-4066-9991-f605c978f9d9.png" width="80"/>
   </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/surulirajan/" target="_blank">
+    <img alt="SURULIRAAJAN | linkedin" src="https://e7.pngegg.com/pngimages/753/685/png-clipart-electronic-portfolio-computer-software-user-interface-design-learning-hiring-child-business-thumbnail.png" width="80"/>
+  </a> &nbsp;&nbsp;  
   <a href="https://dev.to/suruliraajan" target="_blank">
       <img alt="SURULIRAAJAN | dev" src="https://user-images.githubusercontent.com/22448559/137614000-07f740bc-3723-497b-bb5e-54185478c892.png" width="80" />
   </a> &nbsp;&nbsp;
