@@ -54,7 +54,7 @@ Full Stack Developer @ Modern Technical Solutions
 	</p>
 <br>
 
-### 📈 Github activity graph
+### 📈 Github Activity Graph
 [![Suruliraajan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suruliraajan&bg_color=272626&color=f6f4f6&line=0f8ef0&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
