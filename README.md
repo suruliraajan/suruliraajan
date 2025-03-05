@@ -32,23 +32,23 @@ Full Stack Developer @ Modern Technical Solutions
 ### 🛠 &nbsp;Tech Stack I work with,
 	
  <p align="left">
- <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" width="120" height="37"/>
+ <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" width="120" height="33"/>
  </p>
-	<p  align="left"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" width="120" height="37"/>&nbsp; &nbsp;
-		<img src="https://img.shields.io/badge/SEO-FF5722?logo=duckduckgo&logoColor=white" width="120" height="37"/>
+	<p  align="left"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" width="120" height="33"/>&nbsp; &nbsp;
+		<img src="https://img.shields.io/badge/SEO-FF5722?logo=duckduckgo&logoColor=white" width="120" height="33"/>
 	</p>
- <p align="left"><img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" width="120" height="37"/>&nbsp;
-		<img src="https://img.shields.io/badge/opencart-02A9FF?logo=anilist&logoColor=fff" width="120" height="37"/>&nbsp;
-		<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" width="120" height="37"/>
+ <p align="left"><img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" width="120" height="33"/>&nbsp;
+		<img src="https://img.shields.io/badge/opencart-02A9FF?logo=anilist&logoColor=fff" width="120" height="33"/>&nbsp;
+		<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" width="120" height="33"/>
 	</p>
-<p align="left"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" width="120" height="37"/>&nbsp;
-		<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" width="120" height="37"/>&nbsp;
-		<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" width="120" height="37"/>&nbsp;
-		<img src="https://img.shields.io/badge/MVC-Structure-039BE5?logo=Firebase&logoColor=white" width="120" height="37"/>&nbsp;
+<p align="left"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" width="120" height="33"/>&nbsp;
+		<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" width="120" height="33"/>&nbsp;
+		<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" width="120" height="33"/>&nbsp;
+		<img src="https://img.shields.io/badge/MVC-Structure-039BE5?logo=Firebase&logoColor=white" width="120" height="33"/>&nbsp;
 	</p>
-<p align="left"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" width="120" height="37"/>&nbsp;
-		<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" width="120" height="37"/>&nbsp;
-		<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" width="120" height="37"/>&nbsp;
-		<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" width="120" height="37"/>&nbsp;
-		<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" width="120" height="37"/>&nbsp;
+<p align="left"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" width="120" height="33"/>&nbsp;
+		<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" width="120" height="33"/>&nbsp;
+		<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" width="120" height="33"/>&nbsp;
+		<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" width="120" height="33"/>&nbsp;
+		<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" width="120" height="33"/>&nbsp;
 	</p>
