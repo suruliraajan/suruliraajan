@@ -72,3 +72,8 @@ Full Stack Developer @ Modern Technical Solutions
 
 | <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=suruliraajan&count_private=true&theme=radical" alt="Jas-Script" /> | <div style="background-color: aquamarine;height: 481px;width: 400px;"><a href="https://app.daily.dev/suruliraajan"><img src="https://api.daily.dev/devcards/v2/DSFsdOwBi6imzYJpsCoLR.png?type=default&r=mi9" width="410" alt="SURULIRAAJAN's Dev Card"/></a></div> |
 | --- | --- |
+
+<br>
+
+### 🏆 Badges<br>
+<img src="https://raw.githubusercontent.com/suruliraajan/suruliraajan/refs/heads/main/February%202025%20Top%20Reader%20in%20Laravel.png" width="277" height="277"/>&nbsp;<img src="https://raw.githubusercontent.com/suruliraajan/suruliraajan/refs/heads/main/January%202025%20Top%20Reader%20in%20Laravel.png" width="277" height="277"/>
