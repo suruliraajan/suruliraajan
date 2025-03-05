@@ -29,3 +29,16 @@ Full Stack Developer @ Modern Technical Solutions
 
 
 <br>
+
+### 🛠 &nbsp;Tech Stack I work with,
+
+
+<p  align="left"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="120" height="30"/></p>
+  
+<p  align="left">
+<img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" width="100" height="30"/>  
+  &nbsp;
+<img src="https://img.shields.io/badge/Opencart-2e2e2e?logo=laravel" width="100" height="30"/>
+  </p>
+
+  <br>
