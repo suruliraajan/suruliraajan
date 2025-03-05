@@ -5,7 +5,7 @@ Full Stack Developer @ Modern Technical Solutions
 
 👉  Here's my [portfolio](https://suruliraajan.netlify.app/) 
 
-👉  I’m a ambitious and self taught Engineer 🖥️
+👉  I’m an ambitious and self taught Engineer 🖥️
 
 👉  Lives in Tiruppur, India 🇮🇳
 
