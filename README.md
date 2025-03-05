@@ -69,3 +69,6 @@ Full Stack Developer @ Modern Technical Solutions
 | --- | --- |
 
 <br>
+
+| <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=suruliraajan&count_private=true&theme=radical" alt="Jas-Script" /> | <div style="background-color: aquamarine;height: 481px;width: 400px;"><a href="https://app.daily.dev/suruliraajan"><img src="https://api.daily.dev/devcards/v2/DSFsdOwBi6imzYJpsCoLR.png?type=default&r=mi9" width="410" alt="SURULIRAAJAN's Dev Card"/></a></div> |
+| --- | --- |
