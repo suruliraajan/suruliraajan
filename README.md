@@ -10,7 +10,6 @@ Full Stack Developer @ Modern Technical Solutions
 👉  Lives in Tiruppur, India 🇮🇳
 
 👉  Choose to be Optimistic 😃  
-
 <br>
 
 ### Reach me 👇
@@ -31,14 +30,14 @@ Full Stack Developer @ Modern Technical Solutions
 <br>
 
 ### 🛠 &nbsp;Tech Stack I work with,
-
-
-<p  align="left"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="120" height="30"/></p>
-  
-<p  align="left">
-<img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" width="100" height="30"/>  
-  &nbsp;
-<img src="https://img.shields.io/badge/Opencart-2e2e2e?logo=laravel" width="100" height="30"/>
-  </p>
-
-  <br>
+	
+ <p align="left">
+ <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="120" height="37"/>
+ </p>
+	<p  align="left"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" width="120" height="37"/>&nbsp; &nbsp;
+		<img src="https://img.shields.io/badge/SEO-FF5722?logo=duckduckgo&logoColor=white" width="120" height="37"/>
+	</p>
+ <p align="left"><img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" width="120" height="37"/>&nbsp;
+		<img src="https://img.shields.io/badge/opencart-02A9FF?logo=anilist&logoColor=fff" width="120" height="37"/>&nbsp;
+		<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" width="120" height="37"/>
+	</p>
