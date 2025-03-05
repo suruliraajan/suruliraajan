@@ -52,3 +52,13 @@ Full Stack Developer @ Modern Technical Solutions
 		<img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" width="120" height="33"/>&nbsp;
 		<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" width="120" height="33"/>&nbsp;
 	</p>
+<br>
+
+### 📈 Github activity graph
+[![Suruliraajan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suruliraajan&bg_color=272626&color=f6f4f6&line=0f8ef0&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<br>
+
+| ![Suruliraajan's github stats](https://github-readme-stats.vercel.app/api?username=suruliraajan&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suruliraajan&theme=dark)](https://git.io/streak-stats) |
+| --- | --- |
