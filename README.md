@@ -62,3 +62,5 @@ Full Stack Developer @ Modern Technical Solutions
 
 | ![Suruliraajan's github stats](https://github-readme-stats.vercel.app/api?username=suruliraajan&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suruliraajan&theme=dark)](https://git.io/streak-stats) |
 | --- | --- |
+
+<br>
