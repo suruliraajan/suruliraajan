@@ -3,7 +3,7 @@
 Full Stack Developer @ Modern Technical Solutions
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif">
 
-👉  Here's my [portfolio](https://surulirajan-test.netlify.app/) 
+👉  Here's my [portfolio](https://surulirajan-test.com/) 
 
 👉  I’m an ambitious and self taught Engineer 🖥️
 
@@ -16,7 +16,7 @@ Full Stack Developer @ Modern Technical Solutions
 <a href="https://www.linkedin.com/in/surulirajan/" target="_blank">
     <img alt="SURULIRAAJAN | linkedin" src="https://user-images.githubusercontent.com/22448559/137614008-18f96cfd-b2c4-4066-9991-f605c978f9d9.png" width="80"/>
   </a> &nbsp;&nbsp;
-  <a href="https://surulirajan-test.netlify.app/" target="_blank">
+  <a href="https://surulirajan-test.com/" target="_blank">
     <img alt="SURULIRAAJAN | Portfolio" src="https://img.icons8.com/?size=100&id=LoyAjcvVKv1K&format=png&color=000000" width="80"/>
   </a> &nbsp;&nbsp;  
   <a href="https://dev.to/suruliraajan" target="_blank">
