@@ -55,7 +55,7 @@ Full Stack Developer @ Modern Technical Solutions
 <br>
 
 ### 🏆 Trophies<br>
-<img src="https://github-profile-trophy.vercel.app/?username=a8hok&theme=tokyonight&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=suruliraajan&theme=tokyonight&margin-w=15" />
 
 <br>
 
@@ -76,4 +76,4 @@ Full Stack Developer @ Modern Technical Solutions
 <br>
 
 ### 🏆 Badges<br>
-<img src="https://raw.githubusercontent.com/suruliraajan/suruliraajan/refs/heads/main/April2025-Top-Reader-in-PHP.png" width="277" height="277"/>&nbsp;<img src="https://github.com/suruliraajan/suruliraajan/blob/main/March2025-Top-Reader-in-PHP.png" width="277" height="277"/>&nbsp;<img src="https://raw.githubusercontent.com/suruliraajan/suruliraajan/refs/heads/main/February%202025%20Top%20Reader%20in%20Laravel.png" width="277" height="277"/>&nbsp;<img src="https://raw.githubusercontent.com/suruliraajan/suruliraajan/refs/heads/main/January%202025%20Top%20Reader%20in%20Laravel.png" width="277" height="277"/>
+<img src="https://raw.githubusercontent.com/suruliraajan/suruliraajan/refs/heads/main/September-2025-Top-Reader-in-Laravel.png" width="277" height="277"/>&nbsp;<img src="https://raw.githubusercontent.com/suruliraajan/suruliraajan/refs/heads/main/April2025-Top-Reader-in-PHP.png" width="277" height="277"/>&nbsp;<img src="https://github.com/suruliraajan/suruliraajan/blob/main/March2025-Top-Reader-in-PHP.png" width="277" height="277"/>&nbsp;<img src="https://raw.githubusercontent.com/suruliraajan/suruliraajan/refs/heads/main/February%202025%20Top%20Reader%20in%20Laravel.png" width="277" height="277"/>&nbsp;<img src="https://raw.githubusercontent.com/suruliraajan/suruliraajan/refs/heads/main/January%202025%20Top%20Reader%20in%20Laravel.png" width="277" height="277"/>
